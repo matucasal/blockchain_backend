@@ -1,5 +1,12 @@
 # blockchain_backend
 
+Para instalar el proyecto
+
+```
+npm install
+```
+
+
 Para ejecutar el servidor 
 
 ```
