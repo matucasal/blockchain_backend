@@ -19,6 +19,12 @@ Se necesita tener corriendo localmente un Server Redis para que funcione el Pub/
 https://redis.io/
 ```
 
+Una vez instalado, para ejecutar el servidor hay que poner el siguiente comando
+
+```
+redis-server
+```
+
 El servidor por defecto corré en 
 
 ```
